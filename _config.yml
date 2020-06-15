@@ -1,11 +1,11 @@
 # Site settings
-author: TaeVon Lewis
-title: 
+author: TaeVon J Lewis
+title: Why Software Engineering is Right For Me
 header-img: img/home-bg.png
 email: lewistpro@gmail.com
-copyright_name: TaeVon Lewis
+copyright_name: TaeVon J Lewis
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Lessons Learned
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  lewist13
